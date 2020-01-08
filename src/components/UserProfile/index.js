@@ -6,8 +6,8 @@ export default class UserProfile extends React.Component {
 		return (
 			<div className="UserProfile">
 				<div className="User">
-					<div className="name">Jim Dunk</div>
-					<div className="image"><img src="images/me000.png" alt="" /></div>
+					<div className="name">Saif Rashed</div>
+					<div className="image"></div>
 				</div>
 				<div className="UserProfile-menu">
 					<div className="UserProfileSwitch">

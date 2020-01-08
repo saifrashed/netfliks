@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 //import logo from './logo.svg';
-import './App.css';
+import './assets/css/App.css';
 import Logo from './components/Logo';
 import Navigation from './components/Navigation';
 import UserProfile from './components/UserProfile';
