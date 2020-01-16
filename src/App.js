@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-//import logo from './logo.svg';
+
 import './assets/css/App.css';
 import Logo from './components/Logo';
 import Navigation from './components/Navigation';
@@ -23,6 +23,7 @@ class App extends Component {
             this.setState({searchUrl: searchUrl});
         }
     }
+
     handleChange = (e) => {
         this.setState({searchTerm: e.target.value});
     }

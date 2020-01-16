@@ -17,7 +17,7 @@ export default class UserProfile extends React.Component {
 									<img src="http://via.placeholder.com/96x96" alt="" />
 								</div>
 								<div className="UserProfile-name">
-									Cheyenne
+									Saif
 								</div>
 							</li>
 							<li>
@@ -25,7 +25,7 @@ export default class UserProfile extends React.Component {
 									<img src="http://via.placeholder.com/96x96" alt="" />
 								</div>
 								<div className="UserProfile-name">
-									Denver
+									Rashed
 								</div>
 							</li>
 						</ul>
