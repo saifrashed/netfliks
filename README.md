@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-React allows the building of beautiful lay-outs and components. In this project i recreated the Netflix frontpage UI using Create React App. 
+React allows the building of beautiful lay-outs and components. In this project i recreated the Netflix frontpage UI using Create React App. This project allowed me to get familiar with the approach that React takes to build components. 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -13,7 +13,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-* IDEA
 * npm
 
 
